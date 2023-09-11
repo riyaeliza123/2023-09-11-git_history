@@ -4,3 +4,6 @@
 -`commit`: confirming combined changes \
 -`push <WHERE> <WHAT>`: adding those changes to github (cloud) \
 -`pull <WHERE> <WHAT>`: bringing everything from cloud to local repo 
+
+checking git diff
+
