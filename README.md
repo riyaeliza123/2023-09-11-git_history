@@ -5,5 +5,5 @@
 -`push <WHERE> <WHAT>`: adding those changes to github (cloud) \
 -`pull <WHERE> <WHAT>`: bringing everything from cloud to local repo 
 
-checking git diff
+checking git diff heres a conflict
 
